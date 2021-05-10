@@ -1,0 +1,2 @@
+# Cox Orb Data Analyzer (CODA)
+The Cox Orb Data Analyzer (CODA) is a Python data visualization tool that parses and displays data produced by an [Active-Tools Cox Orb](https://active-tools.com/index.php/products/coxorb).
